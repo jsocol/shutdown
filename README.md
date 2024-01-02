@@ -1,5 +1,7 @@
 # shutdown
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/jsocol/shutdown.svg)](https://pkg.go.dev/github.com/jsocol/shutdown)
+
 A small Go library to deduplicate the signal-handling and timeout logic around
 graceful shutdowns. Import it into your main() method like so:
 
